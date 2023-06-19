@@ -34,7 +34,7 @@ Feel free to experiment and modify the sketch to create your own animations!
 
 ## Game overview
 
-![Sterne](image_url)
+![Sterne](https://github.com/Jennynamela/Sterne/blob/main/img%20(2).png)
 
 
 
