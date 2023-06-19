@@ -32,4 +32,9 @@ You can customize the sketch by modifying the following variables in the `MySket
 
 Feel free to experiment and modify the sketch to create your own animations!
 
+## Game overview
+
+![Sterne](image_url)
+
+
 
